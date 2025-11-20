@@ -272,13 +272,11 @@ python app.py
 | **Backend**       | Flask |
 | **Frontend**      | HTML, CSS, JavaScript |
 | **Machine Learning** | Scikit-learn, NumPy, Pandas |
-| **Topic Modelling** | Gensim (LDA) |
-| **Deep Learning** | TensorFlow / PyTorch (for embeddings) |
-| **Clustering**    | K-Means, K-Prototypes, HDBSCAN, DBSCAN |
+| **Topic Modelling** | LDA |
+| **Clustering**    | K-Prototypes, HDBSCAN, LDA + DBSCAN, K-Means, Deep Clustering |
 | **Visualization** | Matplotlib, Seaborn, Plotly |
 | **Deployment**    | Local Flask Server |
 | **External API**  | TMDb API |
-
 
 ---
 
