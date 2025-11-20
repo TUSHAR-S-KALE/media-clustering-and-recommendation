@@ -197,7 +197,7 @@ style J fill:#3333aa,stroke:#333,stroke-width:1px,color:white
 
 ### 🎞️ **Homepage**
 <p align="center">
-  <img width="1919" height="909" alt="Homepage" src="https://github.com/user-attachments/assets/f22500f3-e5ff-4fef-a349-05f94bf2dff5" />
+  <img alt="Homepage" src="https://github.com/user-attachments/assets/f22500f3-e5ff-4fef-a349-05f94bf2dff5" />
 </p>
 
 ### 🔍 **Search Suggestions**
