@@ -265,15 +265,20 @@ python app.py
 
 ## 🛠️ Tech Stack
 
-**Backend:** Flask  
-**Frontend:** HTML, CSS, JavaScript  
-**Machine Learning:** Scikit-learn, NumPy, Pandas  
-**Topic Modelling:** Gensim (LDA)  
-**Deep Learning:** TensorFlow / PyTorch (for embeddings)  
-**Clustering:** K-Means, K-Prototypes, HDBSCAN, DBSCAN  
-**Visualization:** Matplotlib, Seaborn  
-**Deployment:** Local Flask server  
-**External API:** TMDb API  
+## 🛠️ Tech Stack
+
+| Category           | Technologies Used |
+|-------------------|-------------------|
+| **Backend**       | Flask |
+| **Frontend**      | HTML, CSS, JavaScript |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas |
+| **Topic Modelling** | Gensim (LDA) |
+| **Deep Learning** | TensorFlow / PyTorch (for embeddings) |
+| **Clustering**    | K-Means, K-Prototypes, HDBSCAN, DBSCAN |
+| **Visualization** | Matplotlib, Seaborn, Plotly |
+| **Deployment**    | Local Flask Server |
+| **External API**  | TMDb API |
+
 
 ---
 
