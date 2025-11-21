@@ -1,5 +1,5 @@
-# media-clustering-and-recommendation
-A complete end-to-end recommendation system using **Machine Learning, Deep Learning, and Clustering Algorithms**, deployed with **Flask** and powered by **TMDb API** for posters and descriptions.
+# Movie/TV Show Recommendation System
+A complete end-to-end recommendation system built using **Machine Learning and Deep Learning–based clustering algorithms**, deployed with **Flask**, and powered by the **TMDb API** for movie posters and descriptions.
 
 <p align="center">
   <img alt="Recommendation System" src="https://github.com/user-attachments/assets/98d94dfa-497f-4a1c-aa67-1d2eb9db532b" width="100%" />
@@ -33,7 +33,10 @@ The system suggests similar Movies/TV shows based on:
 
 ## 📂 **Dataset Used**
 
-Dataset: [**Netflix Titles Dataset**](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Dataset: <a target="_blank" href="https://www.kaggle.com/datasets/shivamb/netflix-shows">
+  <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle"/>
+</a>
+
 - Contains ≈ 8800+ titles  
 - Columns include:
   - `title`
@@ -197,17 +200,17 @@ style J fill:#3333aa,stroke:#333,stroke-width:1px,color:white
 
 ### 🎞️ **Homepage**
 <p align="center">
-  <img alt="Homepage" src="https://github.com/user-attachments/assets/f22500f3-e5ff-4fef-a349-05f94bf2dff5" />
+  <img alt="Homepage" src="https://github.com/user-attachments/assets/f22500f3-e5ff-4fef-a349-05f94bf2dff5" width="100%"/>
 </p>
 
 ### 🔍 **Search Suggestions**
 <p align="center">
-  <img alt="Search Suggestions" src="https://github.com/user-attachments/assets/86d47d28-86d9-44f2-bd24-c1a51aa57df5" width="80%"/>
+  <img alt="Search Suggestions" src="https://github.com/user-attachments/assets/86d47d28-86d9-44f2-bd24-c1a51aa57df5" width="100%"/>
 </p>
 
 ### 🎬 **Recommendation Output**
 <p align="center">
-  <img alt="Recommendation" src="https://github.com/user-attachments/assets/fc4c8d5f-379b-4a16-a158-8fbc913973cf" width="80%" />
+  <img alt="Recommendation" src="https://github.com/user-attachments/assets/fc4c8d5f-379b-4a16-a158-8fbc913973cf" width="100%"/>
 </p>
 
 ---
