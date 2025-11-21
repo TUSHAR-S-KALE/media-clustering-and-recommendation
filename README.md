@@ -268,8 +268,6 @@ python app.py
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 | Category           | Technologies Used |
 |-------------------|-------------------|
 | **Backend**       | Flask |
