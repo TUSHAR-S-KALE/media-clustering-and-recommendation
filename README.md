@@ -94,8 +94,8 @@ This project implements **five different clustering-based methods**:
 
 ### **1️⃣ K-Prototypes**
 Used because the Netflix dataset contains **mixed data types**:  
-- Numerical: `release_year`, `duration`
-- Categorical: `type`, `listed_in`
+- Numerical: `release_year`
+- Categorical: `type`, `director`, `rating`, `age_group`, `country`, `cast `, `listed_in`, `description`
 
 📌 K-Prototypes handles *both* numeric & categorical data, making it ideal.
 
